@@ -46,7 +46,7 @@ The **Smart Laundry Rack Off-Mode System** is an IoT-based solution designed to 
 
 <video controls src="assets/Working_model.mp4" title="Title" width="500" height="400"></video>
 
-
+## 💬 Circuit Diagram
 ![Circuit Diagram](assets/Circuit_Diagram.jpg)
 
 
